@@ -11,3 +11,12 @@ This is a simple Python application that reads aloud the contents of a `.txt` fi
 3. It converts the text into speech and speaks it out loud.
 
 ---
+## 🛠️ Requirements
+
+- Python 3.x
+- `pyttsx3` Python package
+
+To install the required package:
+
+```bash
+pip install pyttsx3
